@@ -19,7 +19,7 @@ class Observe {
     this.goToTask(taskInfo);
   }
   goToTask(info) {
-    console.log(`${this.name}去任务大殿抢${info}任务`);
+    console.log(`${this.name}去任务大殿抢${info}任务 `);
   }
 }
 
